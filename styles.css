@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+td {
+    border: 1px solid black; /* Ensure this matches the expected style */
+    padding: 1px; /* Maintain the required padding */
+}
